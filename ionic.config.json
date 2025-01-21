@@ -1,0 +1,7 @@
+{
+  "name": "app-ti42",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
